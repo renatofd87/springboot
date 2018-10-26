@@ -1,0 +1,1 @@
+insert into atividade(nome) values('Visita tecnica GDG 2018');

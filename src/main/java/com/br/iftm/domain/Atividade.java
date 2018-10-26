@@ -1,4 +1,4 @@
-package com.br.iftm;
+package com.br.iftm.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
